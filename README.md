@@ -8,7 +8,7 @@ Subject data is added to the data set by reading from "subject_test" and "subjec
 
 I added column names to the data set by reading from "features".
 
-I selected mean and standard deviation data from the data set (columns that have names containing "mean" or "sd").
+I selected mean and standard deviation data from the data set (columns that have names containing "mean" or "std").
 
 I grouped the data according to subject and activity, and calculated the mean of each variable.
 
